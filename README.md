@@ -1,4 +1,4 @@
-# ☠ CyanReaper's RAM
+# CyanReaper's RAM
 
 A Roblox account manager for Windows. Run several accounts at once, rejoin any that drop, auto-click a button after reconnecting, and keep them from being kicked for idling.
 
